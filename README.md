@@ -21,3 +21,5 @@ No two queens are in the same column
 
 No two queens are on the same diagonal
 
+demo :- https://rushi28-web.github.io/N-Queen/
+
